@@ -1,0 +1,10 @@
+﻿  CTestThread.cpp
+  PlanetaryMotion.cpp
+  PlanetaryMotionView.cpp
+C:\Users\Tomin\source\repos\PlanetaryMotion\PlanetaryMotion\PlanetaryMotionView.cpp(43,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Tomin\source\repos\PlanetaryMotion\PlanetaryMotion\PlanetaryMotionView.cpp(93,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tomin\source\repos\PlanetaryMotion\PlanetaryMotion\PlanetaryMotionView.cpp(95,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tomin\source\repos\PlanetaryMotion\PlanetaryMotion\PlanetaryMotionView.cpp(112,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tomin\source\repos\PlanetaryMotion\PlanetaryMotion\PlanetaryMotionView.cpp(114,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  PlanetaryMotion.vcxproj -> C:\Users\Tomin\source\repos\PlanetaryMotion\Debug\PlanetaryMotion.exe
